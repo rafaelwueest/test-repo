@@ -14,3 +14,5 @@ dat <- read.delim('data.txt')
 
 head(dat)
 ```
+# modification
+This modification was added today, 3rd October 2016, by Rafael Wüest.
