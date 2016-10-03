@@ -7,7 +7,7 @@ Some more edits here...
 
 => And yet some more stuff
 
-Here I really change seme stuff
+Here I really change seme stuff. And some change here
 # A HEADING
 ```R
 dat <- read.delim('data.txt')
@@ -16,3 +16,6 @@ head(dat)
 ```
 # modification
 This modification was added today, 3rd October 2016, by Rafael Wüest.
+
+## mod2
+and the second modification added soon later...
